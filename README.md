@@ -29,9 +29,9 @@
 
 
 ## Interest
-I'm strongly interested in crawling, scraping Web and data minings.
-In connection with the above, I'm interested for utilization of collected information.
-For that reason, I'm also interested NLP, GIS and Image Recognition.
+I have a strong interest in software development and infrastructure. 
+I am currently working on robotics optimization and transactional optimization with ROS using FPGA.
+I am also interested in web crawling.
 
 And more, I'm interested in development of hardware devices called IoT.
 Because it's very interesting to see how software works in the real world.
