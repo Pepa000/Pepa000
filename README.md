@@ -1,6 +1,6 @@
 # Hey 👋, I'm Pepa
 
-[![Twitter](https://img.shields.io/twitter/follow/Pepa_enginner_?style=social)](https://twitter.com/yuiseki_)
+[![Twitter](https://img.shields.io/twitter/follow/Pepa_enginner_?style=social)](https://twitter.com/Pepa_engineer)
 
 
 ## Career
