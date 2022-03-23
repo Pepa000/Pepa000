@@ -4,18 +4,18 @@
 
 
 ## Career
-
+Under constraction
 
 ## Education
-
+Under constraction
 
 
 ## Awards
-
+Under constraction
 
 
 ## Publication
-
+Under constraction
 
 ## Skils
     -Linux
